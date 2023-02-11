@@ -1,0 +1,83 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+    
+}
+h1, h2, h3, p, a, li {
+    font-family: Futura;
+    font-size: 16 px;
+    font-weight: normal;
+    color: rgb(69, 14, 14);
+    margin: auto auto auto auto;
+    text-align: center;
+    margin-top: 20px;
+}
+header {
+    margin-bottom: 30px;
+    margin-top: 20px;
+    padding: 10px 0px 10px 0px;
+    border-bottom: 10px dotted rgb(92, 139, 205);
+    color:beige;
+    text-align: center;
+}
+footer {
+    margin-bottom: 20px;
+    padding: 10px 0px 10px 0px;
+    border-bottom: 10px dotted rgb(92, 139, 205);
+    text-align: center;
+    color: beige;
+}
+.space-left {
+    margin: 20px 20px 30px 40px;
+}
+.space-bottom {
+    margin: 0px 0px 10px 0px;
+    margin-top: 30px;
+}
+.block {
+    width: 500px;
+    margin: 0px auto;
+    display: block;
+}
+.text-medium {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+}
+.text-large {
+    font-size: 3em;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+.text-bold {
+    font-weight: bold;
+    padding: 0px 0px 10px 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.center {
+    max-width: 700px;
+    margin: 0px auto 0px auto;
+    text-align: center;
+    font-family: futura;
+    font-size: 15px;
+    padding: 10px 0px 10px 0px;
+}
+.container-small {
+    width: 360px;
+    margin: 0px auto 40px auto;
+    text-align: center;
+}
+.container-small li {
+    margin-bottom: 8px;
+    text-align: center;
+}
+.container-small ul {
+    margin-top: 10px;
+    text-align: auto;
+}
+li {
+    text-align: center;
+}
